@@ -5,7 +5,12 @@
 
 body {
     margin: 0;
-    background-image: url(Misterios-matematicos_1-1024x482.jpg);
+    background: url(hand-drawn-math-formula-and-chemistry-formula-mathematics-background-physics-formula-physics-chemistry-formula-education-and-learning-background-vector.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: #8a821d;
 }
 
 .container {
